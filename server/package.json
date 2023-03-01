@@ -1,10 +1,10 @@
 {
-    "name": "Text-Editor",
+    "name": "JATE",
     "version": "1.0.0",
-    "description": "",
+    "description": "A text editor application",
     "main": "server.js",
     "scripts": {
-        "server": "nodemon server.js --ignore client"
+        "server": "node server.js --ignore client"
     },
     "keywords": [],
     "author": "",
